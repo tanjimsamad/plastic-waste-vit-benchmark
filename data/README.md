@@ -28,5 +28,4 @@ cell on the folders instead. It writes `data/clip_inference_results.csv` (git-ig
 
 ## Source and licence
 
-Add the dataset source, collection method and licence here before publishing.
-Do not push images you do not have the right to redistribute.
+https://drive.google.com/drive/folders/1cJbOuRxLnhbwdAIW2exl6naP_LDNZ3bV?usp=sharing

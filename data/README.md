@@ -23,8 +23,7 @@ data/images_of_Plastic.zip
 data/Non_Plastic/            # extracted from Non_Plastic.rar
 ```
 
-If you already have the three extracted class folders, you can skip the zips and run the CLIP
-cell on the folders instead. It writes `data/clip_inference_results.csv` (git-ignored).
+
 
 ## Source and licence
 

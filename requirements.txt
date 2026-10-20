@@ -1,0 +1,29 @@
+# Core
+torch>=2.4
+torchvision>=0.19
+transformers>=4.44
+timm>=1.0
+optuna>=3.6
+
+# Data / evaluation / plotting
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+pillow
+tqdm
+
+# Webcam / image inference
+opencv-python
+
+# Notebook
+jupyter
+ipykernel
+ipywidgets
+
+# Tested with: Python 3.11, PyTorch 2.11 (CUDA 12.8), torchvision 0.26,
+# transformers 5.20, timm 1.0.30, scikit-learn 1.9, optuna 5.0.
+# For an NVIDIA GPU, install the CUDA build of PyTorch first from
+# https://pytorch.org/get-started/locally/ (the RTX 50-series needs a CUDA 12.8+ build),
+# then run: pip install -r requirements.txt

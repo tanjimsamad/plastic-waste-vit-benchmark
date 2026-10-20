@@ -117,11 +117,7 @@ python scripts/inference.py --webcam
 
 Default checkpoint path is `deit_small_model/best_model.pth`; override with `--checkpoint`.
 
-## Model weights
 
-Weights are not stored in git (the DeiT-Small checkpoint is ~83 MB). Attach them to a
-[GitHub Release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository)
-or host them on Hugging Face, then link them here.
 
 ## License
 
